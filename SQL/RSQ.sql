@@ -1,3 +1,3 @@
 SELECT *
-FROgiM city
+FROM city
 WHERE population > 100000 AND countrycode = 'USA' ;
